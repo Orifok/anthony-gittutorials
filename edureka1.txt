@@ -1,1 +1,3 @@
-Hi this is a sample file
+hi this is a sample file
+
+Adding a new line
